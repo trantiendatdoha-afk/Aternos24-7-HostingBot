@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "qualonmc.aternos.me",
+    "ip": "qualomc.aternos.me",
     "port": 59285,
     "version": "1.21.11"
   },
